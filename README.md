@@ -5,5 +5,5 @@ Link the minified js library 'propel@3.1.0.js' to start integrating propel.js in
 "https://unpkg.com/propel@3.1.0/propel.js" can also be referenced
 
 For using in Node JS apps:
- npm install propel
- import {grad} from "propel";
+ >>npm install propel
+ >>import {grad} from "propel";
