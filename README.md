@@ -7,3 +7,4 @@ Link the minified js library 'propel@3.1.0.js' to start integrating propel.js in
 For using in Node JS apps:
       
        import {grad} from "propel";
+Propel.js Documentation:  http://propelml.org/docs/
